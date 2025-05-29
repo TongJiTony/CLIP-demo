@@ -1,0 +1,11 @@
+name: lab03
+dependencies:
+  - python=3.10
+  - python-dotenv
+  - pip
+  - pip:
+      - openai-clip
+      - Pillow
+      - torchvision
+      - upstash_vector
+      - gradio
