@@ -1,0 +1,9 @@
+{
+    "url": "https://joint-shrew-18482-us1-vector.upstash.io",
+    "token": "ABUFMGpvaW50LXNocmV3LTE4NDgyLXVzMWFkbWluWmpWbE9HWTBPVEl0TjJZMll5MDBPR0l5TFRoa1pXUXRaakk1TW1VeU9USXlPREV6",
+    "FEATURE_PATH": "./features.npy",
+    "IMAGE_PATHS_PATH": "./image_paths.npy",
+    "extract_features_type": "upstash",
+    "top_k": 3,
+    "weight": 0.5
+}
