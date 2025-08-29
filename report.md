@@ -1,5 +1,5 @@
 
-# **A Multi-Modal Image Search Interface Based on CLIP: Implementation and Analysis**
+# **An Image Search Interface Based on CLIP: Implementation and Analysis**
 
 ## **1. Dataset Overview**
 
@@ -33,6 +33,7 @@ Our image search system was carefully designed to align with the **Five-Stage Se
 
 * After submission, users are shown a **gallery of search results** (retrieved top-k similar images).
 * The **total number of returned images** is adjustable via a slider, helping users control result density.
+* ![1749053462671](image/report/1749053462671.png)
 
 ### **2.4 Refinement**
 
